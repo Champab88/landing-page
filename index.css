@@ -1,0 +1,61 @@
+body{
+	margin:0;
+	padding:0;
+	background:#fff;
+	font-family: 'Raleway',sans-serif;
+	color: #fff;
+}
+.banner{
+	height: 100vh;
+	width: 100%;
+	background:url('1639331892193.jfif');
+	background-position: top;
+	background-size:cover;
+	/*background-attachment: fixed;*/
+	background-repeat: no-repeat;}
+
+.banner .navbar{
+    margin-top: 1%;
+
+}
+.banner .navbar-brand{
+    font-size: 1.8e;
+    font-weight: 700;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.banner .nav{
+    margin-right: 8%;
+}
+.banner .nav li a {
+    color: black;
+    font-size: 1.2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg .card {
+    background-color: #f5dfdf;
+    font-family: 'Times New Roman', Times, serif;
+    
+    margin-left: 20%;
+    
+}
+.bg .card-text{
+    font-weight: 600;
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.bgyellow .card{
+    background-color:#faf8cf;
+}
+.bgyelloww .card{
+    background-color: #f5dfdf;
+}
+.pur .card{
+    background-color: #eee3fc;
+}
